@@ -1,6 +1,6 @@
 {
-    "name": "errordle",
-    "short_name": "errordle",
+    "name": "errodle",
+    "short_name": "errodle",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
